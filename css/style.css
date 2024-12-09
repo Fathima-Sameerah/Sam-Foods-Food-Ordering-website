@@ -529,6 +529,7 @@ section {
 
 .about .image img {
   width: 100%;
+  margin-top: 40px;
 }
 
 .about .content {
